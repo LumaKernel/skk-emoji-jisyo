@@ -447,7 +447,11 @@ crossed_swords /⚔️/
 crown /👑/
 crutch /🩼/
 cry /😢/
+sad /😢/
 crying_cat_face /😿/
+cry /😿/
+sad /😿/
+cat /😿/
 crystal_ball /🔮/
 cuba /🇨🇺/
 cucumber /🥒/
@@ -801,6 +805,7 @@ heartbeat /💓/
 heartpulse /💗/
 hearts /♥️/
 heavy_check_mark /✔️/
+check /✔️/
 heavy_division_sign /➗/
 heavy_dollar_sign /💲/
 heavy_equals_sign /🟰/
@@ -1594,6 +1599,8 @@ spaghetti /🍝/
 sparkle /❇️/
 sparkler /🎇/
 sparkles /✨/
+shine /✨/
+shining /✨/
 sparkling_heart /💖/
 speak_no_evil /🙊/
 speaker /🔈/
@@ -1852,6 +1859,7 @@ wheel /🛞/
 wheel_of_dharma /☸️/
 wheelchair /♿/
 white_check_mark /✅/
+check /✅/
 white_circle /⚪/
 white_flag /🏳️/
 white_flower /💮/
